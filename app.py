@@ -5,7 +5,7 @@ import numpy as np
 
 st.set_page_config(page_title="Lab 7 - Interactive Maps", layout="wide")
 
-SHAPEFILE = "ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp"
+SHAPEFILE = "ne_110m_admin_0_countries.shp"
 
 # Projections used in the "Geo Projection" example (the lab PDF never defines this dictionary)
 projection_options = {
